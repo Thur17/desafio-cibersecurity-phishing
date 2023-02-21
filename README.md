@@ -59,7 +59,7 @@ Site Cloner
  ifconfig 
  ```
 
- ![image](https://raw.githubusercontent.com/Thur17/desafio-cibersecurity-phishing/master/Img/05.png)
+ ![image](https://raw.githubusercontent.com/Thur17/desafio-cibersecurity-phishing/master/Img/Facebook.png)
 
 - URL para clone: <http://www.facebook.com>
 
